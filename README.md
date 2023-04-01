@@ -1,9 +1,9 @@
 # Prefabs Triggers Task 1 (Kfir Goldfarb)
 
 - Develop on Unity Version: `2021.3.18f1 (lts)`
-- Online Link Game at [itch.io]()
+- Online Link Game at [itch.io](https://shoot-for-the-sky.itch.io/prefabs-triggers-task-1-kg)
 
-### Things I hage changed:
+## Things I have changed
 
 1. Add a player shield material that appears when player take a shield for 5 seconds, and the shield is faded each second (it's opacity alpha rate is changing).
     1. You can see the function `changeShieldAlpha` I've added [here](Assets/Scripts/3-collisions/ShieldThePlayer.cs)
