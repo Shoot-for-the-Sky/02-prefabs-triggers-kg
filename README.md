@@ -10,4 +10,4 @@
     2. You can see the screen record: ![gif-1](Gifs/gif-1.gif)
 
 2. Extra change I've done is to make the background moving while playing the game (infinitely)
-    * You can see the new script [here](Assets\Scripts\5-shield-background/BackgroundMoverScript.cs)
+    * You can see the new script [here](Assets/Scripts/5-shield-background/BackgroundMoverScript.cs)
