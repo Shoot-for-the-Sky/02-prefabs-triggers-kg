@@ -103,6 +103,7 @@ $RECYCLE.BIN/
 
 # Directory
 images/edit/*
+Edits/*
 
 # Libs
 Assets/TextMesh Pro/*
