@@ -69,12 +69,6 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
-
-
-
-
-
-
 # Windows thumbnail cache files
 Thumbs.db
 Thumbs.db:encryptable
@@ -106,3 +100,12 @@ $RECYCLE.BIN/
 
 # Pycharm project
 .idea
+
+# Directory
+images/edit/*
+
+# Libs
+Assets/TextMesh Pro/*
+
+# Unity Builds
+Builds/*
